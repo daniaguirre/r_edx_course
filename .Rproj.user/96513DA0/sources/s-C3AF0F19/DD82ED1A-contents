@@ -1,0 +1,26 @@
+#preliminaries
+#remove all objects from R
+rm(list=ls())
+library("utils")
+setwd("C:/Users/Dan-LAP/repositorios/r_edx_course/Gender_Stats_csv")
+
+#getting the data
+gender_data <- read.csv("Gender_StatsData.csv")
+teenager_fr <- subset(gender_data, Indicator.Code=="SP.ADO.TFRT")
+#remove the dataframe: gender_data from R environment
+rm(gender_data)
+
+#seing the structure of a dataframe
+#overview of the dataframe
+str(teenager_fr)
+#first 6 rows
+head(teenager_fr) 
+#last 6 rows
+tail(teenager_fr)
+
+#computing the mean of a column
+mean(teenager_fr$X1975, na.rm = TRUE) #skiping NA values
+mean(teenager_fr$X1960, na.rm = TRUE)
+sd(teenager_fr$X1960, na.rm = TRUE) #standar derivation
+mean(teenager_fr$X2000, na.rm = TRUE)
+sd(teenager_fr$X2000, na.rm = TRUE)

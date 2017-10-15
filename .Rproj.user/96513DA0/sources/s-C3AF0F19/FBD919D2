@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507992407012.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FBD919D2",
+    "lastKnownWriteTime" : 7306085877303244645,
+    "last_content_update" : 1507992407012,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "46841C80",
+        "caption" : "gender_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=gender_data&cache_key=46841C80",
+        "displayedObservations" : "165690",
+        "environment" : "",
+        "object" : "gender_data",
+        "preview" : "0",
+        "totalObservations" : "165690",
+        "variables" : "63"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

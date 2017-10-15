@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507989842802.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DD82ED1A",
+    "lastKnownWriteTime" : 1507993014,
+    "last_content_update" : 1507993014854,
+    "path" : "C:/Users/Dan-LAP/repositorios/r_edx_course/t1.r",
+    "project_path" : "t1.r",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "7",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
